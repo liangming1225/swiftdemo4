@@ -17,6 +17,23 @@
 
 /* Begin PBXFileReference section */
 		986F44A022EE9F9300E5EB47 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		986F44A222EEC08300E5EB47 /* lab3_var_let_again.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab3_var_let_again.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44A322EEC12500E5EB47 /* lab4_print.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab4_print.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44A422EEC2D800E5EB47 /* lab5_coersion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab5_coersion.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44A522EEC3DF00E5EB47 /* lab6_coersion2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab6_coersion2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44A622EEC56700E5EB47 /* lab7_String_formatter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab7_String_formatter.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44A722EEC71C00E5EB47 /* lab8_array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab8_array.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44A822EEC9BE00E5EB47 /* lab9_dictionary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab9_dictionary.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44A922EECE1100E5EB47 /* lab10.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab10.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44AA22EED2B200E5EB47 /* lab11_nullify.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab11_nullify.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44AB22EED83F00E5EB47 /* lab12_nullify2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab12_nullify2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44AC22EED97D00E5EB47 /* lab13.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab13.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44AD22EEDDA200E5EB47 /* lab14.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab14.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44AE22EEE16000E5EB47 /* lab15.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab15.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44AF22EEE58700E5EB47 /* lab16.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab16.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44B022EEE93300E5EB47 /* lab17.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab17.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44B122EEEBED00E5EB47 /* lab18.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab18.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44B222EEEE7B00E5EB47 /* lab19.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab19.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9881E66922EE9ADC00CC19A5 /* demo4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = demo4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9881E66C22EE9ADC00CC19A5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9881E66E22EE9ADC00CC19A5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -41,6 +58,23 @@
 		9881E66022EE9ADC00CC19A5 = {
 			isa = PBXGroup;
 			children = (
+				986F44B222EEEE7B00E5EB47 /* lab19.playground */,
+				986F44B122EEEBED00E5EB47 /* lab18.playground */,
+				986F44B022EEE93300E5EB47 /* lab17.playground */,
+				986F44AF22EEE58700E5EB47 /* lab16.playground */,
+				986F44AE22EEE16000E5EB47 /* lab15.playground */,
+				986F44AD22EEDDA200E5EB47 /* lab14.playground */,
+				986F44AC22EED97D00E5EB47 /* lab13.playground */,
+				986F44AB22EED83F00E5EB47 /* lab12_nullify2.playground */,
+				986F44AA22EED2B200E5EB47 /* lab11_nullify.playground */,
+				986F44A922EECE1100E5EB47 /* lab10.playground */,
+				986F44A822EEC9BE00E5EB47 /* lab9_dictionary.playground */,
+				986F44A722EEC71C00E5EB47 /* lab8_array.playground */,
+				986F44A622EEC56700E5EB47 /* lab7_String_formatter.playground */,
+				986F44A522EEC3DF00E5EB47 /* lab6_coersion2.playground */,
+				986F44A422EEC2D800E5EB47 /* lab5_coersion.playground */,
+				986F44A322EEC12500E5EB47 /* lab4_print.playground */,
+				986F44A222EEC08300E5EB47 /* lab3_var_let_again.playground */,
 				986F44A022EE9F9300E5EB47 /* README.md */,
 				9881E67E22EE9B3A00CC19A5 /* lab1.playground */,
 				9881E66B22EE9ADC00CC19A5 /* demo4 */,
