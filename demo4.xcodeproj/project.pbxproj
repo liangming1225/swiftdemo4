@@ -34,6 +34,34 @@
 		986F44B022EEE93300E5EB47 /* lab17.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab17.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		986F44B122EEEBED00E5EB47 /* lab18.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab18.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		986F44B222EEEE7B00E5EB47 /* lab19.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab19.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44B322EFD16200E5EB47 /* lab21.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab21.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44B422EFD7AE00E5EB47 /* lab22.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab22.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44B522EFDA7600E5EB47 /* lab23.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab23.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44B622EFDE1800E5EB47 /* lab24.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab24.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44B822EFE01A00E5EB47 /* lab25.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab25.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44B922EFE16000E5EB47 /* lab26.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab26.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44BA22EFE2F000E5EB47 /* lab27.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab27.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44BB22EFEAE800E5EB47 /* lab28.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab28.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44BC22EFED5100E5EB47 /* lab29.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab29.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44BD22EFF74D00E5EB47 /* lab30.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab30.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44BE22F00E6C00E5EB47 /* lab31.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab31.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44BF22F0132A00E5EB47 /* lab32.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab32.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44C022F0151600E5EB47 /* lab33.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab33.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44C122F01C6B00E5EB47 /* lab34.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab34.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44C222F01D8F00E5EB47 /* lab35.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab35.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44C322F022C200E5EB47 /* lab36.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab36.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44C422F0245D00E5EB47 /* lab37.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab37.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44C522F0285500E5EB47 /* lab38.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab38.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44C622F02A8800E5EB47 /* lab39.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab39.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44C722F02BAB00E5EB47 /* lab40.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab40.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44C822F02ED000E5EB47 /* lab41.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab41.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44C922F0332C00E5EB47 /* lab42.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab42.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44CA22F0351400E5EB47 /* lab43.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab43.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44CB22F0366500E5EB47 /* lab44.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab44.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44CC22F037DA00E5EB47 /* lab45.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab45.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44CD22F03B0A00E5EB47 /* lab46.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab46.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44CE22F03ECD00E5EB47 /* lab47.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab47.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		986F44CF22F041EA00E5EB47 /* lab48.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lab48.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9881E66922EE9ADC00CC19A5 /* demo4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = demo4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9881E66C22EE9ADC00CC19A5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9881E66E22EE9ADC00CC19A5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +86,34 @@
 		9881E66022EE9ADC00CC19A5 = {
 			isa = PBXGroup;
 			children = (
+				986F44CF22F041EA00E5EB47 /* lab48.playground */,
+				986F44CE22F03ECD00E5EB47 /* lab47.playground */,
+				986F44CD22F03B0A00E5EB47 /* lab46.playground */,
+				986F44CC22F037DA00E5EB47 /* lab45.playground */,
+				986F44CB22F0366500E5EB47 /* lab44.playground */,
+				986F44CA22F0351400E5EB47 /* lab43.playground */,
+				986F44C922F0332C00E5EB47 /* lab42.playground */,
+				986F44C822F02ED000E5EB47 /* lab41.playground */,
+				986F44C722F02BAB00E5EB47 /* lab40.playground */,
+				986F44C622F02A8800E5EB47 /* lab39.playground */,
+				986F44C522F0285500E5EB47 /* lab38.playground */,
+				986F44C422F0245D00E5EB47 /* lab37.playground */,
+				986F44C322F022C200E5EB47 /* lab36.playground */,
+				986F44C222F01D8F00E5EB47 /* lab35.playground */,
+				986F44C122F01C6B00E5EB47 /* lab34.playground */,
+				986F44C022F0151600E5EB47 /* lab33.playground */,
+				986F44BF22F0132A00E5EB47 /* lab32.playground */,
+				986F44BE22F00E6C00E5EB47 /* lab31.playground */,
+				986F44BD22EFF74D00E5EB47 /* lab30.playground */,
+				986F44BC22EFED5100E5EB47 /* lab29.playground */,
+				986F44BB22EFEAE800E5EB47 /* lab28.playground */,
+				986F44BA22EFE2F000E5EB47 /* lab27.playground */,
+				986F44B922EFE16000E5EB47 /* lab26.playground */,
+				986F44B822EFE01A00E5EB47 /* lab25.playground */,
+				986F44B622EFDE1800E5EB47 /* lab24.playground */,
+				986F44B522EFDA7600E5EB47 /* lab23.playground */,
+				986F44B422EFD7AE00E5EB47 /* lab22.playground */,
+				986F44B322EFD16200E5EB47 /* lab21.playground */,
 				986F44B222EEEE7B00E5EB47 /* lab19.playground */,
 				986F44B122EEEBED00E5EB47 /* lab18.playground */,
 				986F44B022EEE93300E5EB47 /* lab17.playground */,
